@@ -1,5 +1,5 @@
-Ekklesion Tenancy
-=================
+PHP Tenancy
+===========
 
 A Caddy module to extract dynamic information of tenants at runtime. Suited for multi-tenant PHP applications.
 
