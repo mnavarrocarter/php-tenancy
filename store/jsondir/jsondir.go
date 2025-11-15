@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
-	"github.com/ekklesion/multitenancy/store"
+	"github.com/mnavarrocarter/php-tenancy/store"
 	"github.com/fsnotify/fsnotify"
 	"io"
 	"log"

@@ -4,7 +4,7 @@ name: multitenancy
 
 services:
   caddy:
-    image: ekklesion/multitenancy:dev
+    image: mnavarrocarter/php-tenancy:dev
     build:
       context: .
       dockerfile: .dev/docker/caddy/Dockerfile

@@ -4,7 +4,7 @@ COPY . /build
 WORKDIR /build
 
 RUN xcaddy build \
-    --with github.com/ekklesion/multitenancy=.
+    --with github.com/mnavarrocarter/php-tenancy=.
 
 FROM caddy:2.7.4-alpine
 

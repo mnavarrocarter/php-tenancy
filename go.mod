@@ -1,4 +1,4 @@
-module github.com/ekklesion/multitenancy
+module github.com/mnavarrocarter/php-tenancy
 
 go 1.20
 

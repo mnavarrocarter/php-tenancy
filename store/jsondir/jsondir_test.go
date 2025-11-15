@@ -2,7 +2,7 @@ package jsondir_test
 
 import (
 	"context"
-	"github.com/ekklesion/multitenancy/store/jsondir"
+	"github.com/mnavarrocarter/php-tenancy/store/jsondir"
 	"io"
 	"net/http"
 	"net/http/httptest"
